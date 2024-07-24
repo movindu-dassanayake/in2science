@@ -5,7 +5,7 @@ To get everything working:
 clone the repo (or download as a zip file and unzip)
 
 ```
-git clone <repo>git clone https://github.com/movindu-dassanayake/in2science.git
+git clone https://github.com/movindu-dassanayake/in2science.git
 ```
 
 cd into the working directory
